@@ -6,6 +6,6 @@ class SayBye
 {
     public static function world()
     {
-        return 'Bye, Composer!';
+        return 'Bye Bye, Composer!';
     }
 }
